@@ -1,0 +1,38 @@
+[
+  {
+    "id": "handbook-1",
+    "title": "Student Handbook - Enrollment",
+    "source": "Student Handbook 2024",
+    "content": "Enrollment opens two weeks before the semester starts. Students add electives through the online student portal, then confirm with an academic advisor for final approval. A waitlist opens after the first week of classes.\n\nPriority enrollment windows: seniors, then juniors, then sophomores, then first-years. Each student may add up to 2 electives per term."
+  },
+  {
+    "id": "handbook-2",
+    "title": "Financial Aid & Scholarships",
+    "source": "Financial Aid Guide",
+    "content": "Financial aid applications open on March 15 and close on June 30. Students must submit the FAFSA or national aid form plus a scholarship statement of purpose. Awards are released within 3 weeks.\n\nNeed-based grants cover up to 60% of tuition and can be combined with merit awards. Emergency micro-grants are available within 48 hours through the Student Success Center."
+  },
+  {
+    "id": "calendar-1",
+    "title": "Academic Calendar Highlights",
+    "source": "Academic Calendar 2024-25",
+    "content": "Fall semester classes begin August 19. Midterm exams run October 7-11. Final exams take place December 10-17. Spring semester begins January 13 with finals May 5-12.\n\nReading week is scheduled for November 18-22. Registration for spring electives opens November 1."
+  },
+  {
+    "id": "housing-1",
+    "title": "Housing & Hostel Info",
+    "source": "Campus Housing",
+    "content": "On-campus hostel fees range from $1,200 to $1,450 per semester depending on room type. First-year students receive priority housing assignments and can apply for roommate matching.\n\nCheck-in starts five days before classes. Meal plans are included with all hostel contracts."
+  },
+  {
+    "id": "facilities-1",
+    "title": "Campus Facilities",
+    "source": "Campus Life",
+    "content": "The main library is open 8am-11pm on weekdays and 10am-8pm on weekends. Students access study rooms through the library app.\n\nLabs, sports center, and maker space require a valid student ID. Wellness services offer drop-in counseling Monday to Friday."
+  },
+  {
+    "id": "policies-1",
+    "title": "Campus Policies",
+    "source": "Policy Manual",
+    "content": "Attendance is required for all core courses with a maximum of two unexcused absences. Academic integrity violations follow a three-step review process.\n\nStudent conduct expectations cover respectful behavior, inclusive language, and safety guidelines during campus events."
+  }
+]
